@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question5-InventoryRecords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A190EF-DAED-4182-8C71-8710BB2E2458}|Question5-InventoryRecords\\Question5-InventoryRecords.csproj|c:\\users\\agyap\\downloads\\internship\\c sharp\\assignment 3\\dcit318-assignment3-11117559\\question5-inventoryrecords\\question5-inventoryrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A190EF-DAED-4182-8C71-8710BB2E2458}|Question5-InventoryRecords\\Question5-InventoryRecords.csproj|solutionrelative:question5-inventoryrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question5-InventoryRecords\\Question5-InventoryRecords\\Program.cs",
+              "RelativeDocumentMoniker": "Question5-InventoryRecords\\Program.cs",
+              "ToolTip": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question5-InventoryRecords\\Question5-InventoryRecords\\Program.cs",
+              "RelativeToolTip": "Question5-InventoryRecords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:59:07.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

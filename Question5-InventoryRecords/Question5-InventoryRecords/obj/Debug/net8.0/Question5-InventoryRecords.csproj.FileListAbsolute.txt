@@ -1,0 +1,15 @@
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\bin\Debug\net8.0\Question5-InventoryRecords.exe
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\bin\Debug\net8.0\Question5-InventoryRecords.deps.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\bin\Debug\net8.0\Question5-InventoryRecords.runtimeconfig.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\bin\Debug\net8.0\Question5-InventoryRecords.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\bin\Debug\net8.0\Question5-InventoryRecords.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.sourcelink.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\refint\Question5-InventoryRecords.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\Question5-InventoryRecords.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question5-InventoryRecords\Question5-InventoryRecords\obj\Debug\net8.0\ref\Question5-InventoryRecords.dll
