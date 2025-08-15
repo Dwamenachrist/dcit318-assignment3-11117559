@@ -12,3 +12,4 @@ C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-111
 C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question1-FinanceSystem\Question1-FinanceSystem\obj\Debug\net8.0\Question1-FinanceSystem.pdb
 C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question1-FinanceSystem\Question1-FinanceSystem\obj\Debug\net8.0\Question1-FinanceSystem.genruntimeconfig.cache
 C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question1-FinanceSystem\Question1-FinanceSystem\obj\Debug\net8.0\ref\Question1-FinanceSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question1-FinanceSystem\Question1-FinanceSystem\obj\Debug\net8.0\Question1-FinanceSystem.sourcelink.json
