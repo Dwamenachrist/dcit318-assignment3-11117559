@@ -1,0 +1,15 @@
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.sourcelink.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\bin\Debug\net8.0\Question2-HealthcareSystem.exe
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\bin\Debug\net8.0\Question2-HealthcareSystem.deps.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\bin\Debug\net8.0\Question2-HealthcareSystem.runtimeconfig.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\bin\Debug\net8.0\Question2-HealthcareSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\bin\Debug\net8.0\Question2-HealthcareSystem.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\refint\Question2-HealthcareSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\Question2-HealthcareSystem.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question2-HealthcareSystem\Question2-HealthcareSystem\obj\Debug\net8.0\ref\Question2-HealthcareSystem.dll

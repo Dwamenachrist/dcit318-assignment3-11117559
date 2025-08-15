@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question2-HealthcareSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D3638B-0639-422D-9FE7-1B9575C9282D}|Question2-HealthcareSystem\\Question2-HealthcareSystem.csproj|c:\\users\\agyap\\downloads\\internship\\c sharp\\assignment 2\\dcit318-assignment2-11117559\\question2-healthcaresystem\\question2-healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D3638B-0639-422D-9FE7-1B9575C9282D}|Question2-HealthcareSystem\\Question2-HealthcareSystem.csproj|solutionrelative:question2-healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question2-HealthcareSystem\\Question2-HealthcareSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Question2-HealthcareSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question2-HealthcareSystem\\Question2-HealthcareSystem\\Program.cs",
+              "RelativeToolTip": "Question2-HealthcareSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:50:08.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
