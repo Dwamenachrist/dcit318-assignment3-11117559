@@ -1,0 +1,15 @@
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.sourcelink.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\bin\Debug\net8.0\Question4-GradingSystem.exe
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\bin\Debug\net8.0\Question4-GradingSystem.deps.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\bin\Debug\net8.0\Question4-GradingSystem.runtimeconfig.json
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\bin\Debug\net8.0\Question4-GradingSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\bin\Debug\net8.0\Question4-GradingSystem.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\refint\Question4-GradingSystem.dll
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.pdb
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\Question4-GradingSystem.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Internship\C Sharp\Assignment 3\dcit318-assignment3-11117559\Question4-GradingSystem\Question4-GradingSystem\obj\Debug\net8.0\ref\Question4-GradingSystem.dll

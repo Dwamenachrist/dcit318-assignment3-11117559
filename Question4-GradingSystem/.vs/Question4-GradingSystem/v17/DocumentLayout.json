@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question4-GradingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3AD88-DC37-4AB7-996B-8A27F05CAC70}|Question4-GradingSystem\\Question4-GradingSystem.csproj|c:\\users\\agyap\\downloads\\internship\\c sharp\\assignment 3\\dcit318-assignment3-11117559\\question4-gradingsystem\\question4-gradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3AD88-DC37-4AB7-996B-8A27F05CAC70}|Question4-GradingSystem\\Question4-GradingSystem.csproj|solutionrelative:question4-gradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question4-GradingSystem\\Question4-GradingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Question4-GradingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 3\\dcit318-assignment3-11117559\\Question4-GradingSystem\\Question4-GradingSystem\\Program.cs",
+              "RelativeToolTip": "Question4-GradingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:58:42.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
