@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question3-WarehouseSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78FD712-5B5D-4652-B9CE-43885C534C78}|Question3-WarehouseSystem\\Question3-WarehouseSystem.csproj|c:\\users\\agyap\\downloads\\internship\\c sharp\\assignment 2\\dcit318-assignment2-11117559\\question3-warehousesystem\\question3-warehousesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78FD712-5B5D-4652-B9CE-43885C534C78}|Question3-WarehouseSystem\\Question3-WarehouseSystem.csproj|solutionrelative:question3-warehousesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question3-WarehouseSystem\\Question3-WarehouseSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Question3-WarehouseSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\agyap\\Downloads\\Internship\\C Sharp\\Assignment 2\\dcit318-assignment2-11117559\\Question3-WarehouseSystem\\Question3-WarehouseSystem\\Program.cs",
+              "RelativeToolTip": "Question3-WarehouseSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:50:33.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
